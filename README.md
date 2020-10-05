@@ -2,7 +2,7 @@
 
 Using M5Stack Card Keyboard with UART (TTL Serial)
 
-##REQUIRES
+## REQUIRES
 
 M5 Stack Card Keyboard
 
