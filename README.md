@@ -2,6 +2,8 @@
 
 Using M5Stack Card Keyboard with UART (TTL Serial)
 
+![Image](https://github.com/jmio/CardKB_Serial/blob/main/CardKeyboard_UART_Pinout.jpg)
+
 ## REQUIRES
 
 M5 Stack Card Keyboard
