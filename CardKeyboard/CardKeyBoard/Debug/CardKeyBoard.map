@@ -1,98 +1,98 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                              SoftwareSerial.o (_ZN5Print5writeEPKhj)
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o (main)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              SendOnlySoftwareSerial.o (_ZN5Print5writeEPKhj)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                               Adafruit_NeoPixel.o (micros)
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                               Adafruit_NeoPixel.o (pinMode)
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
-C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fixunssfsi.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(floatsisf.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(gesf2.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(unordsf2.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
                               Adafruit_NeoPixel.o (__udivmodhi4)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
                               Sketch.o (__divmodhi4)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
                               Adafruit_NeoPixel.o (__udivmodsi4)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
                               Adafruit_NeoPixel.o (__divmodsi4)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
-                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
-                              Sketch.o (__tablejump2__)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
-                              Sketch.o (__do_copy_data)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                              SendOnlySoftwareSerial.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
                               Sketch.o (__do_clear_bss)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
                               Sketch.o (__do_global_ctors)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
                               Sketch.o (__do_global_dtors)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
                               Adafruit_NeoPixel.o (__umulhisi3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
                               Adafruit_NeoPixel.o (__usmulhisi3)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
                               Adafruit_NeoPixel.o (malloc)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
-                              C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(abort.o)
+                              C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memset.o)
                               Adafruit_NeoPixel.o (memset)
 
 Allocating common symbols
 Common symbol       size              file
 
-__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
-__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
 
 Discarded input sections
 
- .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
  .text          0x00000000        0x0 Adafruit_NeoPixel.o
  .data          0x00000000        0x0 Adafruit_NeoPixel.o
  .bss           0x00000000        0x0 Adafruit_NeoPixel.o
@@ -103,59 +103,56 @@ Discarded input sections
  .text._ZN17Adafruit_NeoPixel13setPixelColorEjhhhh
                 0x00000000       0xb2 Adafruit_NeoPixel.o
  .text._ZN17Adafruit_NeoPixel4fillEmjj
-                0x00000000       0x6e Adafruit_NeoPixel.o
+                0x00000000       0x6c Adafruit_NeoPixel.o
  .text._ZN17Adafruit_NeoPixel8ColorHSVEjhh
-                0x00000000      0x134 Adafruit_NeoPixel.o
+                0x00000000      0x12c Adafruit_NeoPixel.o
  .text._ZNK17Adafruit_NeoPixel13getPixelColorEj
-                0x00000000      0x230 Adafruit_NeoPixel.o
+                0x00000000      0x222 Adafruit_NeoPixel.o
  .text._ZN17Adafruit_NeoPixel13setBrightnessEh
-                0x00000000       0x82 Adafruit_NeoPixel.o
+                0x00000000       0x7e Adafruit_NeoPixel.o
  .text._ZNK17Adafruit_NeoPixel13getBrightnessEv
                 0x00000000        0x8 Adafruit_NeoPixel.o
  .text._ZN17Adafruit_NeoPixel5clearEv
-                0x00000000       0x12 Adafruit_NeoPixel.o
+                0x00000000       0x10 Adafruit_NeoPixel.o
  .text._ZN17Adafruit_NeoPixel7gamma32Em
                 0x00000000       0x44 Adafruit_NeoPixel.o
  .progmem.data._ZL19_NeoPixelGammaTable
                 0x00000000      0x100 Adafruit_NeoPixel.o
+ .group         0x00000000        0x8 SendOnlySoftwareSerial.o
+ .group         0x00000000        0x8 SendOnlySoftwareSerial.o
+ .group         0x00000000        0x8 SendOnlySoftwareSerial.o
+ .text          0x00000000        0x0 SendOnlySoftwareSerial.o
+ .data          0x00000000        0x0 SendOnlySoftwareSerial.o
+ .bss           0x00000000        0x0 SendOnlySoftwareSerial.o
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 SendOnlySoftwareSerial.o
+ .text._ZN22SendOnlySoftwareSerial12subtract_capEjj
+                0x00000000       0x12 SendOnlySoftwareSerial.o
  .text          0x00000000        0x0 Sketch.o
  .data          0x00000000        0x0 Sketch.o
  .bss           0x00000000        0x0 Sketch.o
- .group         0x00000000        0x8 SoftwareSerial.o
- .group         0x00000000        0x8 SoftwareSerial.o
- .group         0x00000000        0x8 SoftwareSerial.o
- .text          0x00000000        0x0 SoftwareSerial.o
- .data          0x00000000        0x0 SoftwareSerial.o
- .bss           0x00000000        0x0 SoftwareSerial.o
- .text._ZN5Print5flushEv
-                0x00000000        0x2 SoftwareSerial.o
- .text._ZN14SoftwareSerial11rx_pin_readEv
-                0x00000000        0xe SoftwareSerial.o
- .text._ZN14SoftwareSerial12subtract_capEjj
-                0x00000000       0x12 SoftwareSerial.o
- .text._ZN14SoftwareSerial3endEv
-                0x00000000        0x4 SoftwareSerial.o
+ .avr.prop      0x00000000       0x16 Sketch.o
  .text          0x00000000        0x0 twi.o
  .data          0x00000000        0x0 twi.o
  .bss           0x00000000        0x0 twi.o
  .text.twi_init
-                0x00000000       0x3c twi.o
- .text.twi_disable
-                0x00000000       0x1a twi.o
- .text.twi_setAddress
-                0x00000000        0x8 twi.o
- .text.twi_setFrequency
                 0x00000000       0x28 twi.o
+ .text.twi_disable
+                0x00000000       0x12 twi.o
+ .text.twi_setAddress
+                0x00000000        0x6 twi.o
+ .text.twi_setFrequency
+                0x00000000       0x24 twi.o
  .text.twi_readFrom
-                0x00000000       0x90 twi.o
+                0x00000000       0x8a twi.o
  .text.twi_writeTo
-                0x00000000       0xac twi.o
+                0x00000000       0xa6 twi.o
  .text.twi_attachSlaveRxEvent
                 0x00000000        0xa twi.o
  .text.twi_attachSlaveTxEvent
                 0x00000000        0xa twi.o
  .text.twi_reply
-                0x00000000       0x10 twi.o
+                0x00000000        0xe twi.o
  .group         0x00000000        0x8 Wire.o
  .group         0x00000000        0x8 Wire.o
  .group         0x00000000        0x8 Wire.o
@@ -171,33 +168,33 @@ Discarded input sections
  .text._ZN7TwoWire16onRequestServiceEv
                 0x00000000       0x18 Wire.o
  .text._ZN7TwoWire5beginEv
-                0x00000000       0x14 Wire.o
+                0x00000000       0x12 Wire.o
  .text._ZN7TwoWire5beginEh
-                0x00000000       0x26 Wire.o
+                0x00000000       0x1e Wire.o
  .text._ZN7TwoWire5beginEi
-                0x00000000        0x4 Wire.o
+                0x00000000        0x2 Wire.o
  .text._ZN7TwoWire3endEv
-                0x00000000        0x4 Wire.o
+                0x00000000        0x2 Wire.o
  .text._ZN7TwoWire8setClockEm
-                0x00000000        0x8 Wire.o
+                0x00000000        0x6 Wire.o
  .text._ZN7TwoWire17beginTransmissionEh
                 0x00000000       0x14 Wire.o
  .text._ZN7TwoWire17beginTransmissionEi
-                0x00000000        0x4 Wire.o
+                0x00000000        0x2 Wire.o
  .text._ZN7TwoWire15endTransmissionEh
-                0x00000000       0x26 Wire.o
+                0x00000000       0x24 Wire.o
  .text._ZN7TwoWire11requestFromEhhmhh
-                0x00000000       0xa8 Wire.o
+                0x00000000       0xa2 Wire.o
  .text._ZN7TwoWire11requestFromEhhh
-                0x00000000       0x20 Wire.o
+                0x00000000       0x1e Wire.o
  .text._ZN7TwoWire11requestFromEhh
-                0x00000000        0x6 Wire.o
- .text._ZN7TwoWire11requestFromEii
-                0x00000000        0x6 Wire.o
- .text._ZN7TwoWire11requestFromEiii
                 0x00000000        0x4 Wire.o
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x4 Wire.o
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x2 Wire.o
  .text._ZN7TwoWire15endTransmissionEv
-                0x00000000        0x6 Wire.o
+                0x00000000        0x4 Wire.o
  .text._ZN7TwoWire9onReceiveEPFviE
                 0x00000000        0xa Wire.o
  .text._ZN7TwoWire9onRequestEPFvvE
@@ -208,419 +205,421 @@ Discarded input sections
                 0x00000000        0x2 Wire.o
  .bss._ZN7TwoWire9txAddressE
                 0x00000000        0x1 Wire.o
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .text.atexit   0x00000000        0x6 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text._Z8setupUSBv
-                0x00000000        0x2 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .group         0x00000000        0x8 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print17availableForWriteEv
-                0x00000000        0x6 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x6 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5flushEv
-                0x00000000        0x2 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5writeEPKc
-                0x00000000       0x2a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x2a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEPK19__FlashStringHelper
-                0x00000000       0x48 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x48 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK6String
-                0x00000000       0x1c C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1c C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEPKc
-                0x00000000        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEc
-                0x00000000        0xe C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK9Printable
-                0x00000000       0x14 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x14 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata.str1.1
-                0x00000000        0xf C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xf C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEv
-                0x00000000        0x8 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x6 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPK19__FlashStringHelper
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK6String
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPKc
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEc
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK9Printable
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print11printNumberEmh
-                0x00000000       0x92 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x8e C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEmi
-                0x00000000       0x1a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x18 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEhi
-                0x00000000        0xe C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xc C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEhi
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEji
-                0x00000000        0xc C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xa C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEji
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEmi
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEli
-                0x00000000       0x90 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x8a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEii
-                0x00000000        0xe C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xc C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEii
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEli
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print10printFloatEdh
-                0x00000000      0x1b6 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000      0x18e C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEdi
-                0x00000000        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEdi
-                0x00000000       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata._ZTV5Print
-                0x00000000        0xc C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text.millis   0x00000000       0x18 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000000        0xc C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .text.delayMicroseconds
-                0x00000000       0x12 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000000       0x12 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .text.digitalRead
-                0x00000000       0x52 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000       0x50 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_pure_virtual
-                0x00000000        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_deleted_virtual
-                0x00000000        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_info    0x00000000       0x76 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_abbrev  0x00000000       0x6d C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .debug_aranges
-                0x00000000       0x20 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_ranges  0x00000000       0x10 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_line    0x00000000       0xa9 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_str     0x00000000      0x18b C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .comment       0x00000000       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_frame   0x00000000       0x34 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .text          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .data          0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .bss           0x00000000        0x0 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000000       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x192 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000000       0xc0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000000        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fixunssfsi.o)
  .text.avr-libc.fplib
-                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000000       0x58 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(floatsisf.o)
  .text.avr-libc.fplib
-                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_cmp.o)
  .text.avr-libc.fplib
-                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_inf.o)
  .text.avr-libc.fplib
-                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_nan.o)
  .text.avr-libc.fplib
-                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscA.o)
  .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscB.o)
  .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_round.o)
  .text.avr-libc.fplib
-                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_split3.o)
  .text.avr-libc.fplib
-                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_zero.o)
  .text.avr-libc.fplib
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(gesf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000000        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x00000000       0xc2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(unordsf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.mul
-                0x00000000       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.mul
-                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.div
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
  .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(abort.o)
  .text.avr-libc
-                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(abort.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memset.o)
 
 Memory Configuration
 
 Name             Origin             Length             Attributes
-text             0x00000000         0x00020000         xr
-data             0x00800060         0x0000ffa0         rw !x
-eeprom           0x00810000         0x00010000         rw !x
-fuse             0x00820000         0x00000003         rw !x
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x00000400         rw !x
+eeprom           0x00810000         0x00000200         rw !x
+fuse             0x00820000         0x00000002         rw !x
 lock             0x00830000         0x00000400         rw !x
 signature        0x00840000         0x00000400         rw !x
 user_signatures  0x00850000         0x00000400         rw !x
@@ -628,31 +627,30 @@ user_signatures  0x00850000         0x00000400         rw !x
 
 Linker script and memory map
 
-Address of section .data set to 0x800100
-LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
 LOAD Adafruit_NeoPixel.o
+LOAD SendOnlySoftwareSerial.o
 LOAD Sketch.o
-LOAD SoftwareSerial.o
 LOAD twi.o
 LOAD Wire.o
 START GROUP
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
-LOAD C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+LOAD C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a
 END GROUP
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
 START GROUP
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
-LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
-LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5\libatmega328p.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4\libatmega8a.a
 END GROUP
-                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
-                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
-                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
-                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
-                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
-                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00002000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x2000
+                [0x00000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
                 0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
                 0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
                 0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
@@ -747,306 +745,284 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x2390
+.text           0x00000000     0x1d9c
  *(.vectors)
- .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .vectors       0x00000000       0x26 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
                 0x00000000                __vector_default
                 0x00000000                __vectors
  *(.vectors)
  *(.progmem.gcc*)
  .progmem.gcc_sw_table.loop
-                0x00000068        0xe Sketch.o
-                0x00000076                . = ALIGN (0x2)
-                0x00000076                __trampolines_start = .
+                0x00000026        0xe Sketch.o
+                0x00000034                . = ALIGN (0x2)
+                0x00000034                __trampolines_start = .
  *(.trampolines)
- .trampolines   0x00000076        0x0 linker stubs
+ .trampolines   0x00000034        0x0 linker stubs
  *(.trampolines*)
-                0x00000076                __trampolines_end = .
+                0x00000034                __trampolines_end = .
  *libprintf_flt.a:*(.progmem.data)
  *libc.a:*(.progmem.data)
  *(.progmem*)
  .progmem.data.digital_pin_to_timer_PGM
-                0x00000076       0x14 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000076                digital_pin_to_timer_PGM
+                0x00000034       0x14 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000034                digital_pin_to_timer_PGM
  .progmem.data.digital_pin_to_bit_mask_PGM
-                0x0000008a       0x14 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x0000008a                digital_pin_to_bit_mask_PGM
+                0x00000048       0x14 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000048                digital_pin_to_bit_mask_PGM
  .progmem.data.digital_pin_to_port_PGM
-                0x0000009e       0x14 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x0000009e                digital_pin_to_port_PGM
- .progmem.data.port_to_input_PGM
-                0x000000b2        0xa C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x000000b2                port_to_input_PGM
+                0x0000005c       0x14 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000005c                digital_pin_to_port_PGM
  .progmem.data.port_to_output_PGM
-                0x000000bc        0xa C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x000000bc                port_to_output_PGM
+                0x00000070        0xa C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000070                port_to_output_PGM
  .progmem.data.port_to_mode_PGM
-                0x000000c6        0xa C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x000000c6                port_to_mode_PGM
-                0x000000d0                . = ALIGN (0x2)
+                0x0000007a        0xa C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007a                port_to_mode_PGM
+                0x00000084                . = ALIGN (0x2)
  *(.jumptables)
  *(.jumptables*)
  *(.lowtext)
  *(.lowtext*)
-                0x000000d0                __ctors_start = .
+                0x00000084                __ctors_start = .
  *(.ctors)
- .ctors         0x000000d0        0x2 Sketch.o
- .ctors         0x000000d2        0x2 Wire.o
-                0x000000d4                __ctors_end = .
-                0x000000d4                __dtors_start = .
+ .ctors         0x00000084        0x2 Sketch.o
+ .ctors         0x00000086        0x2 Wire.o
+                0x00000088                __ctors_end = .
+                0x00000088                __dtors_start = .
  *(.dtors)
- .dtors         0x000000d4        0x2 Sketch.o
-                0x000000d6                __dtors_end = .
+ .dtors         0x00000088        0x2 Sketch.o
+                0x0000008a                __dtors_end = .
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x000000d6        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
-                0x000000d6                __init
+ .init0         0x0000008a        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+                0x0000008a                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x000000d6        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .init2         0x0000008a        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x000000e2       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
-                0x000000e2                __do_copy_data
- .init4         0x000000f8       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
-                0x000000f8                __do_clear_bss
+ .init4         0x00000096       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_copy_data.o)
+                0x00000096                __do_copy_data
+ .init4         0x000000ac       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_clear_bss.o)
+                0x000000ac                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
  *(.init6)
- .init6         0x00000108       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
-                0x00000108                __do_global_ctors
+ .init6         0x000000bc       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_ctors.o)
+                0x000000bc                __do_global_ctors
  *(.init6)
  *(.init7)
  *(.init7)
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x0000011e        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .init9         0x000000d0        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
  *(.init9)
  *(.text)
- .text          0x00000126        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
-                0x00000126                __vector_22
-                0x00000126                __vector_1
-                0x00000126                __vector_12
-                0x00000126                __bad_interrupt
-                0x00000126                __vector_6
-                0x00000126                __vector_23
-                0x00000126                __vector_25
-                0x00000126                __vector_11
-                0x00000126                __vector_13
-                0x00000126                __vector_17
-                0x00000126                __vector_19
-                0x00000126                __vector_7
-                0x00000126                __vector_9
-                0x00000126                __vector_2
-                0x00000126                __vector_21
-                0x00000126                __vector_15
-                0x00000126                __vector_8
-                0x00000126                __vector_14
-                0x00000126                __vector_10
-                0x00000126                __vector_18
-                0x00000126                __vector_20
-                0x0000012a                . = ALIGN (0x2)
+ .text          0x000000d4        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+                0x000000d4                __vector_1
+                0x000000d4                __vector_12
+                0x000000d4                __bad_interrupt
+                0x000000d4                __vector_6
+                0x000000d4                __vector_3
+                0x000000d4                __vector_11
+                0x000000d4                __vector_13
+                0x000000d4                __vector_7
+                0x000000d4                __vector_5
+                0x000000d4                __vector_4
+                0x000000d4                __vector_2
+                0x000000d4                __vector_15
+                0x000000d4                __vector_8
+                0x000000d4                __vector_14
+                0x000000d4                __vector_10
+                0x000000d4                __vector_16
+                0x000000d4                __vector_18
+                0x000000d6                . = ALIGN (0x2)
  *(.text.*)
  .text._ZN17Adafruit_NeoPixelD2Ev
-                0x0000012a       0x26 Adafruit_NeoPixel.o
-                0x0000012a                _ZN17Adafruit_NeoPixelD2Ev
-                0x0000012a                _ZN17Adafruit_NeoPixelD1Ev
+                0x000000d6       0x22 Adafruit_NeoPixel.o
+                0x000000d6                _ZN17Adafruit_NeoPixelD2Ev
+                0x000000d6                _ZN17Adafruit_NeoPixelD1Ev
  .text._ZN17Adafruit_NeoPixel5beginEv
-                0x00000150       0x26 Adafruit_NeoPixel.o
-                0x00000150                _ZN17Adafruit_NeoPixel5beginEv
+                0x000000f8       0x22 Adafruit_NeoPixel.o
+                0x000000f8                _ZN17Adafruit_NeoPixel5beginEv
  .text._ZN17Adafruit_NeoPixel12updateLengthEj
-                0x00000176       0x70 Adafruit_NeoPixel.o
-                0x00000176                _ZN17Adafruit_NeoPixel12updateLengthEj
+                0x0000011a       0x6a Adafruit_NeoPixel.o
+                0x0000011a                _ZN17Adafruit_NeoPixel12updateLengthEj
  .text._ZN17Adafruit_NeoPixel10updateTypeEj
-                0x000001e6       0x6e Adafruit_NeoPixel.o
-                0x000001e6                _ZN17Adafruit_NeoPixel10updateTypeEj
+                0x00000184       0x6c Adafruit_NeoPixel.o
+                0x00000184                _ZN17Adafruit_NeoPixel10updateTypeEj
  .text._ZN17Adafruit_NeoPixel4showEv
-                0x00000254      0x37c Adafruit_NeoPixel.o
-                0x00000254                _ZN17Adafruit_NeoPixel4showEv
+                0x000001f0      0x374 Adafruit_NeoPixel.o
+                0x000001f0                _ZN17Adafruit_NeoPixel4showEv
  .text._ZN17Adafruit_NeoPixel6setPinEj
-                0x000005d0       0x7c Adafruit_NeoPixel.o
-                0x000005d0                _ZN17Adafruit_NeoPixel6setPinEj
+                0x00000564       0x76 Adafruit_NeoPixel.o
+                0x00000564                _ZN17Adafruit_NeoPixel6setPinEj
  .text._ZN17Adafruit_NeoPixelC2Ejjj
-                0x0000064c       0x44 Adafruit_NeoPixel.o
-                0x0000064c                _ZN17Adafruit_NeoPixelC1Ejjj
-                0x0000064c                _ZN17Adafruit_NeoPixelC2Ejjj
+                0x000005da       0x3e Adafruit_NeoPixel.o
+                0x000005da                _ZN17Adafruit_NeoPixelC1Ejjj
+                0x000005da                _ZN17Adafruit_NeoPixelC2Ejjj
  .text._ZN17Adafruit_NeoPixel13setPixelColorEjm
-                0x00000690       0xea Adafruit_NeoPixel.o
-                0x00000690                _ZN17Adafruit_NeoPixel13setPixelColorEjm
- .text._Z7flashOnv
-                0x0000077a       0x1c Sketch.o
-                0x0000077a                _Z7flashOnv
- .text._Z8flashOffv
-                0x00000796       0x1a Sketch.o
-                0x00000796                _Z8flashOffv
- .text.setup    0x000007b0      0x142 Sketch.o
-                0x000007b0                setup
- .text._Z8GetInputv
-                0x000008f2      0x6ca Sketch.o
-                0x000008f2                _Z8GetInputv
- .text.startup._GLOBAL__sub_I_pixels
-                0x00000fbc       0x22 Sketch.o
- .text.exit._GLOBAL__sub_D_pixels
-                0x00000fde       0x10 Sketch.o
- .text._Z12requestEventv
-                0x00000fee       0xa4 Sketch.o
-                0x00000fee                _Z12requestEventv
- .text.loop     0x00001092      0x36a Sketch.o
-                0x00001092                loop
+                0x00000618       0xea Adafruit_NeoPixel.o
+                0x00000618                _ZN17Adafruit_NeoPixel13setPixelColorEjm
  .text._ZN5Print17availableForWriteEv
-                0x000013fc        0x6 SoftwareSerial.o
-                0x000013fc                _ZN5Print17availableForWriteEv
- .text._ZN14SoftwareSerial4readEv
-                0x00001402       0x42 SoftwareSerial.o
-                0x00001402                _ZN14SoftwareSerial4readEv
- .text._ZN14SoftwareSerial5writeEh
-                0x00001444       0xa0 SoftwareSerial.o
-                0x00001444                _ZN14SoftwareSerial5writeEh
- .text._ZN14SoftwareSerial5flushEv
-                0x000014e4        0x2 SoftwareSerial.o
-                0x000014e4                _ZN14SoftwareSerial5flushEv
- .text._ZN14SoftwareSerial4peekEv
-                0x000014e6       0x30 SoftwareSerial.o
-                0x000014e6                _ZN14SoftwareSerial4peekEv
- .text._ZN14SoftwareSerial9availableEv
-                0x00001516       0x30 SoftwareSerial.o
-                0x00001516                _ZN14SoftwareSerial9availableEv
- .text._ZN14SoftwareSerial13stopListeningEv
-                0x00001546       0x2c SoftwareSerial.o
-                0x00001546                _ZN14SoftwareSerial13stopListeningEv
- .text._ZN14SoftwareSerial6listenEv
-                0x00001572       0x52 SoftwareSerial.o
-                0x00001572                _ZN14SoftwareSerial6listenEv
- .text.__vector_3
-                0x000015c4       0xf4 SoftwareSerial.o
-                0x000015c4                __vector_5
-                0x000015c4                __vector_4
-                0x000015c4                __vector_3
- .text._ZN14SoftwareSerialD2Ev
-                0x000016b8        0xe SoftwareSerial.o
-                0x000016b8                _ZN14SoftwareSerialD1Ev
-                0x000016b8                _ZN14SoftwareSerialD2Ev
- .text._ZN14SoftwareSerial5setTXEh
-                0x000016c6       0x52 SoftwareSerial.o
-                0x000016c6                _ZN14SoftwareSerial5setTXEh
- .text._ZN14SoftwareSerial5setRXEh
-                0x00001718       0x52 SoftwareSerial.o
-                0x00001718                _ZN14SoftwareSerial5setRXEh
- .text._ZN14SoftwareSerialC2Ehhb
-                0x0000176a       0x56 SoftwareSerial.o
-                0x0000176a                _ZN14SoftwareSerialC1Ehhb
-                0x0000176a                _ZN14SoftwareSerialC2Ehhb
- .text._ZN14SoftwareSerial5beginEl
-                0x000017c0      0x11c SoftwareSerial.o
-                0x000017c0                _ZN14SoftwareSerial5beginEl
+                0x00000702        0x6 SendOnlySoftwareSerial.o
+                0x00000702                _ZN5Print17availableForWriteEv
+ .text._ZN22SendOnlySoftwareSerial5writeEh
+                0x00000708       0xa0 SendOnlySoftwareSerial.o
+                0x00000708                _ZN22SendOnlySoftwareSerial5writeEh
+ .text._ZN22SendOnlySoftwareSerial5flushEv
+                0x000007a8        0x2 SendOnlySoftwareSerial.o
+                0x000007a8                _ZN22SendOnlySoftwareSerial5flushEv
+                0x000007a8                _ZN22SendOnlySoftwareSerial3endEv
+ .text._ZN22SendOnlySoftwareSerial9availableEv
+                0x000007aa        0x6 SendOnlySoftwareSerial.o
+                0x000007aa                _ZN22SendOnlySoftwareSerial9availableEv
+ .text._ZN22SendOnlySoftwareSerial4peekEv
+                0x000007b0        0x6 SendOnlySoftwareSerial.o
+                0x000007b0                _ZN22SendOnlySoftwareSerial4peekEv
+                0x000007b0                _ZN22SendOnlySoftwareSerial4readEv
+ .text._ZN22SendOnlySoftwareSerialD2Ev
+                0x000007b6        0x2 SendOnlySoftwareSerial.o
+                0x000007b6                _ZN22SendOnlySoftwareSerialD2Ev
+                0x000007b6                _ZN22SendOnlySoftwareSerialD1Ev
+ .text._ZN22SendOnlySoftwareSerial5setTXEh
+                0x000007b8       0x4e SendOnlySoftwareSerial.o
+                0x000007b8                _ZN22SendOnlySoftwareSerial5setTXEh
+ .text._ZN22SendOnlySoftwareSerialC2Ehb
+                0x00000806       0x2e SendOnlySoftwareSerial.o
+                0x00000806                _ZN22SendOnlySoftwareSerialC1Ehb
+                0x00000806                _ZN22SendOnlySoftwareSerialC2Ehb
+ .text._ZN22SendOnlySoftwareSerial5beginEl
+                0x00000834       0x2e SendOnlySoftwareSerial.o
+                0x00000834                _ZN22SendOnlySoftwareSerial5beginEl
+ .text._Z7flashOnv
+                0x00000862       0x18 Sketch.o
+                0x00000862                _Z7flashOnv
+ .text._Z8flashOffv
+                0x0000087a       0x16 Sketch.o
+                0x0000087a                _Z8flashOffv
+ .text.setup    0x00000890      0x120 Sketch.o
+                0x00000890                setup
+ .text._Z8GetInputv
+                0x000009b0      0x5e0 Sketch.o
+                0x000009b0                _Z8GetInputv
+ .text.startup._GLOBAL__sub_I_pixels
+                0x00000f90       0x1c Sketch.o
+ .text.exit._GLOBAL__sub_D_pixels
+                0x00000fac        0xc Sketch.o
+ .text._Z12requestEventv
+                0x00000fb8       0x9e Sketch.o
+                0x00000fb8                _Z12requestEventv
+ .text.loop     0x00001056      0x334 Sketch.o
+                0x00001056                loop
  .text.twi_transmit
-                0x000018dc       0x50 twi.o
-                0x000018dc                twi_transmit
+                0x0000138a       0x50 twi.o
+                0x0000138a                twi_transmit
  .text.twi_stop
-                0x0000192c       0x14 twi.o
-                0x0000192c                twi_stop
+                0x000013da       0x10 twi.o
+                0x000013da                twi_stop
  .text.twi_releaseBus
-                0x00001940        0xc twi.o
-                0x00001940                twi_releaseBus
- .text.__vector_24
-                0x0000194c      0x25a twi.o
-                0x0000194c                __vector_24
+                0x000013ea        0xa twi.o
+                0x000013ea                twi_releaseBus
+ .text.__vector_17
+                0x000013f4      0x244 twi.o
+                0x000013f4                __vector_17
  .text._ZN7TwoWire9availableEv
-                0x00001ba6       0x10 Wire.o
-                0x00001ba6                _ZN7TwoWire9availableEv
+                0x00001638       0x10 Wire.o
+                0x00001638                _ZN7TwoWire9availableEv
  .text._ZN7TwoWire4readEv
-                0x00001bb6       0x28 Wire.o
-                0x00001bb6                _ZN7TwoWire4readEv
+                0x00001648       0x28 Wire.o
+                0x00001648                _ZN7TwoWire4readEv
  .text._ZN7TwoWire4peekEv
-                0x00001bde       0x1e Wire.o
-                0x00001bde                _ZN7TwoWire4peekEv
+                0x00001670       0x1e Wire.o
+                0x00001670                _ZN7TwoWire4peekEv
  .text._ZN7TwoWire5flushEv
-                0x00001bfc        0x2 Wire.o
-                0x00001bfc                _ZN7TwoWire5flushEv
+                0x0000168e        0x2 Wire.o
+                0x0000168e                _ZN7TwoWire5flushEv
  .text._ZN7TwoWire5writeEPKhj
-                0x00001bfe       0x5a Wire.o
-                0x00001bfe                _ZN7TwoWire5writeEPKhj
+                0x00001690       0x58 Wire.o
+                0x00001690                _ZN7TwoWire5writeEPKhj
  .text._ZN7TwoWire5writeEh
-                0x00001c58       0x5e Wire.o
-                0x00001c58                _ZN7TwoWire5writeEh
+                0x000016e8       0x5c Wire.o
+                0x000016e8                _ZN7TwoWire5writeEh
  .text._ZN7TwoWireC2Ev
-                0x00001cb6       0x20 Wire.o
-                0x00001cb6                _ZN7TwoWireC1Ev
-                0x00001cb6                _ZN7TwoWireC2Ev
+                0x00001744       0x20 Wire.o
+                0x00001744                _ZN7TwoWireC1Ev
+                0x00001744                _ZN7TwoWireC2Ev
  .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
-                0x00001cd6        0x8 Wire.o
+                0x00001764        0x6 Wire.o
  .text.initVariant
-                0x00001cde        0x2 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00001cde                initVariant
+                0x0000176a        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x0000176a                initVariant
  .text.startup.main
-                0x00001ce0       0x1e C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00001ce0                main
+                0x0000176c       0x14 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x0000176c                main
  .text._ZN5Print5writeEPKhj
-                0x00001cfe       0x54 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001cfe                _ZN5Print5writeEPKhj
- .text.__vector_16
-                0x00001d52       0x94 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001d52                __vector_16
- .text.micros   0x00001de6       0x4a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001de6                micros
- .text.delay    0x00001e30       0x78 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001e30                delay
- .text.init     0x00001ea8       0x76 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001ea8                init
+                0x00001780       0x54 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001780                _ZN5Print5writeEPKhj
+ .text.__vector_9
+                0x000017d4       0x94 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000017d4                __vector_9
+ .text.micros   0x00001868       0x4c C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001868                micros
+ .text.delay    0x000018b4       0x72 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000018b4                delay
+ .text.init     0x00001926       0x40 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001926                init
  .text.turnOffPWM
-                0x00001f1e       0x52 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text.pinMode  0x00001f70       0x78 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00001f70                pinMode
+                0x00001966       0x22 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00001988       0x78 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001988                pinMode
  .text.digitalWrite
-                0x00001fe8       0x5e C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00001fe8                digitalWrite
- .text.__empty  0x00002046        0x2 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                0x00002046                yield
+                0x00001a00       0x5c C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001a00                digitalWrite
+ .text.__empty  0x00001a5c        0x2 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00001a5c                yield
  .text.libgcc.div
-                0x00002048       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
-                0x00002048                __udivmodhi4
+                0x00001a5e       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodhi4.o)
+                0x00001a5e                __udivmodhi4
  .text.libgcc.div
-                0x00002070       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
-                0x00002070                _div
-                0x00002070                __divmodhi4
+                0x00001a86       0x26 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodhi4.o)
+                0x00001a86                _div
+                0x00001a86                __divmodhi4
  .text.libgcc.div
-                0x00002098       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
-                0x00002098                __udivmodsi4
+                0x00001aac       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_udivmodsi4.o)
+                0x00001aac                __udivmodsi4
  .text.libgcc.div
-                0x000020dc       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
-                0x000020dc                __divmodsi4
+                0x00001af0       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_divmodsi4.o)
+                0x00001af0                __divmodsi4
  .text.libgcc.div
-                0x0000210a       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
-                0x0000210a                __negsi2
- .text.libgcc   0x0000211a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
-                0x0000211a                __tablejump2__
+                0x00001b18       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_negsi2.o)
+                0x00001b18                __negsi2
+ .text.libgcc   0x00001b28        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_tablejump2.o)
+                0x00001b28                __tablejump2__
  .text.avr-libc
-                0x00002126      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
-                0x00002126                malloc
-                0x00002256                free
+                0x00001b34      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+                0x00001b34                malloc
+                0x00001c64                free
  .text.avr-libc
-                0x00002368        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
-                0x00002368                memset
-                0x00002376                . = ALIGN (0x2)
+                0x00001d76        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(memset.o)
+                0x00001d76                memset
+                0x00001d84                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00002376        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
-                0x00002376                _exit
-                0x00002376                exit
+ .fini9         0x00001d84        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
+                0x00001d84                _exit
+                0x00001d84                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
  *(.fini7)
  *(.fini7)
  *(.fini6)
- .fini6         0x00002376       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
-                0x00002376                __do_global_dtors
+ .fini6         0x00001d84       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_dtors.o)
+                0x00001d84                __do_global_dtors
  *(.fini6)
  *(.fini5)
  *(.fini5)
@@ -1059,148 +1035,136 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x0000238c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .fini0         0x00001d98        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr4\libgcc.a(_exit.o)
  *(.fini0)
-                0x00002390                _etext = .
+                0x00001d9c                _etext = .
 
-.data           0x00800100      0x180 load address 0x00002390
-                0x00800100                PROVIDE (__data_start, .)
+.data           0x00800060      0x180 load address 0x00001d9c
+                0x00800060                PROVIDE (__data_start, .)
  *(.data)
- .data          0x00800100        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
-                0x00800100                __malloc_heap_end
-                0x00800102                __malloc_heap_start
-                0x00800104                __malloc_margin
+ .data          0x00800060        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+                0x00800060                __malloc_heap_end
+                0x00800062                __malloc_heap_start
+                0x00800064                __malloc_margin
  *(.data*)
- .data.KeyMap   0x00800106      0x150 Sketch.o
-                0x00800106                KeyMap
+ .data.KeyMap   0x00800066      0x150 Sketch.o
+                0x00800066                KeyMap
  *(.gnu.linkonce.d*)
  *(.rodata)
  *(.rodata*)
+ .rodata._ZTV22SendOnlySoftwareSerial
+                0x008001b6       0x12 SendOnlySoftwareSerial.o
+                0x008001b6                _ZTV22SendOnlySoftwareSerial
  .rodata.str1.1
-                0x00800256        0x5 Sketch.o
- .rodata._ZTV14SoftwareSerial
-                0x0080025b       0x12 SoftwareSerial.o
-                0x0080025b                _ZTV14SoftwareSerial
+                0x008001c8        0x5 Sketch.o
  .rodata._ZTV7TwoWire
-                0x0080026d       0x12 Wire.o
-                0x0080026d                _ZTV7TwoWire
+                0x008001cd       0x12 Wire.o
+                0x008001cd                _ZTV7TwoWire
  *(.gnu.linkonce.r*)
-                0x00800280                . = ALIGN (0x2)
- *fill*         0x0080027f        0x1 
-                0x00800280                _edata = .
-                0x00800280                PROVIDE (__data_end, .)
+                0x008001e0                . = ALIGN (0x2)
+ *fill*         0x008001df        0x1 
+                0x008001e0                _edata = .
+                0x008001e0                PROVIDE (__data_end, .)
 
-.bss            0x00800280      0x151
-                0x00800280                PROVIDE (__bss_start, .)
+.bss            0x008001e0      0x103
+                0x008001e0                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
- .bss.Mode      0x00800280        0x2 Sketch.o
-                0x00800280                Mode
+ .bss.Mode      0x008001e0        0x2 Sketch.o
+                0x008001e0                Mode
  .bss.hadPressed
-                0x00800282        0x1 Sketch.o
-                0x00800282                hadPressed
- .bss.KEY       0x00800283        0x1 Sketch.o
-                0x00800283                KEY
- .bss.idle      0x00800284        0x2 Sketch.o
-                0x00800284                idle
- .bss._sym      0x00800286        0x2 Sketch.o
-                0x00800286                _sym
- .bss._fn       0x00800288        0x2 Sketch.o
-                0x00800288                _fn
- .bss._shift    0x0080028a        0x2 Sketch.o
-                0x0080028a                _shift
+                0x008001e2        0x1 Sketch.o
+                0x008001e2                hadPressed
+ .bss.KEY       0x008001e3        0x1 Sketch.o
+                0x008001e3                KEY
+ .bss.idle      0x008001e4        0x2 Sketch.o
+                0x008001e4                idle
+ .bss._sym      0x008001e6        0x2 Sketch.o
+                0x008001e6                _sym
+ .bss._fn       0x008001e8        0x2 Sketch.o
+                0x008001e8                _fn
+ .bss._shift    0x008001ea        0x2 Sketch.o
+                0x008001ea                _shift
  .bss.softSerial
-                0x0080028c       0x1f Sketch.o
-                0x0080028c                softSerial
- .bss.pixels    0x008002ab       0x16 Sketch.o
-                0x008002ab                pixels
- .bss._ZN14SoftwareSerial20_receive_buffer_headE
-                0x008002c1        0x1 SoftwareSerial.o
-                0x008002c1                _ZN14SoftwareSerial20_receive_buffer_headE
- .bss._ZN14SoftwareSerial20_receive_buffer_tailE
-                0x008002c2        0x1 SoftwareSerial.o
-                0x008002c2                _ZN14SoftwareSerial20_receive_buffer_tailE
- .bss._ZN14SoftwareSerial15_receive_bufferE
-                0x008002c3       0x40 SoftwareSerial.o
-                0x008002c3                _ZN14SoftwareSerial15_receive_bufferE
- .bss._ZN14SoftwareSerial13active_objectE
-                0x00800303        0x2 SoftwareSerial.o
-                0x00800303                _ZN14SoftwareSerial13active_objectE
+                0x008001ec       0x15 Sketch.o
+                0x008001ec                softSerial
+ .bss.pixels    0x00800201       0x16 Sketch.o
+                0x00800201                pixels
  .bss.twi_error
-                0x00800305        0x1 twi.o
+                0x00800217        0x1 twi.o
  .bss.twi_rxBufferIndex
-                0x00800306        0x1 twi.o
+                0x00800218        0x1 twi.o
  .bss.twi_rxBuffer
-                0x00800307       0x20 twi.o
+                0x00800219       0x20 twi.o
  .bss.twi_txBufferLength
-                0x00800327        0x1 twi.o
+                0x00800239        0x1 twi.o
  .bss.twi_txBufferIndex
-                0x00800328        0x1 twi.o
+                0x0080023a        0x1 twi.o
  .bss.twi_txBuffer
-                0x00800329       0x20 twi.o
+                0x0080023b       0x20 twi.o
  .bss.twi_masterBufferLength
-                0x00800349        0x1 twi.o
+                0x0080025b        0x1 twi.o
  .bss.twi_masterBufferIndex
-                0x0080034a        0x1 twi.o
+                0x0080025c        0x1 twi.o
  .bss.twi_masterBuffer
-                0x0080034b       0x20 twi.o
+                0x0080025d       0x20 twi.o
  .bss.twi_onSlaveReceive
-                0x0080036b        0x2 twi.o
+                0x0080027d        0x2 twi.o
  .bss.twi_onSlaveTransmit
-                0x0080036d        0x2 twi.o
+                0x0080027f        0x2 twi.o
  .bss.twi_inRepStart
-                0x0080036f        0x1 twi.o
+                0x00800281        0x1 twi.o
  .bss.twi_sendStop
-                0x00800370        0x1 twi.o
+                0x00800282        0x1 twi.o
  .bss.twi_slarw
-                0x00800371        0x1 twi.o
+                0x00800283        0x1 twi.o
  .bss.twi_state
-                0x00800372        0x1 twi.o
- .bss.Wire      0x00800373        0xc Wire.o
-                0x00800373                Wire
+                0x00800284        0x1 twi.o
+ .bss.Wire      0x00800285        0xc Wire.o
+                0x00800285                Wire
  .bss._ZN7TwoWire12transmittingE
-                0x0080037f        0x1 Wire.o
-                0x0080037f                _ZN7TwoWire12transmittingE
+                0x00800291        0x1 Wire.o
+                0x00800291                _ZN7TwoWire12transmittingE
  .bss._ZN7TwoWire14txBufferLengthE
-                0x00800380        0x1 Wire.o
-                0x00800380                _ZN7TwoWire14txBufferLengthE
+                0x00800292        0x1 Wire.o
+                0x00800292                _ZN7TwoWire14txBufferLengthE
  .bss._ZN7TwoWire13txBufferIndexE
-                0x00800381        0x1 Wire.o
-                0x00800381                _ZN7TwoWire13txBufferIndexE
+                0x00800293        0x1 Wire.o
+                0x00800293                _ZN7TwoWire13txBufferIndexE
  .bss._ZN7TwoWire8txBufferE
-                0x00800382       0x20 Wire.o
-                0x00800382                _ZN7TwoWire8txBufferE
+                0x00800294       0x20 Wire.o
+                0x00800294                _ZN7TwoWire8txBufferE
  .bss._ZN7TwoWire14rxBufferLengthE
-                0x008003a2        0x1 Wire.o
-                0x008003a2                _ZN7TwoWire14rxBufferLengthE
+                0x008002b4        0x1 Wire.o
+                0x008002b4                _ZN7TwoWire14rxBufferLengthE
  .bss._ZN7TwoWire13rxBufferIndexE
-                0x008003a3        0x1 Wire.o
-                0x008003a3                _ZN7TwoWire13rxBufferIndexE
+                0x008002b5        0x1 Wire.o
+                0x008002b5                _ZN7TwoWire13rxBufferIndexE
  .bss._ZN7TwoWire8rxBufferE
-                0x008003a4       0x20 Wire.o
-                0x008003a4                _ZN7TwoWire8rxBufferE
+                0x008002b6       0x20 Wire.o
+                0x008002b6                _ZN7TwoWire8rxBufferE
  .bss.timer0_fract
-                0x008003c4        0x1 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002d6        0x1 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x008003c5        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008003c5                timer0_millis
+                0x008002d7        0x4 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002d7                timer0_millis
  .bss.timer0_overflow_count
-                0x008003c9        0x4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008003c9                timer0_overflow_count
+                0x008002db        0x4 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002db                timer0_overflow_count
  *(COMMON)
- COMMON         0x008003cd        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
-                0x008003cd                __brkval
-                0x008003cf                __flp
-                0x008003d1                PROVIDE (__bss_end, .)
-                0x00002390                __data_load_start = LOADADDR (.data)
-                0x00002510                __data_load_end = (__data_load_start + SIZEOF (.data))
+ COMMON         0x008002df        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
+                0x008002df                __brkval
+                0x008002e1                __flp
+                0x008002e3                PROVIDE (__bss_end, .)
+                0x00001d9c                __data_load_start = LOADADDR (.data)
+                0x00001f1c                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008003d1        0x0
+.noinit         0x008002e3        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008003d1                _end = .
-                0x008003d1                PROVIDE (__heap_start, .)
+                0x008002e3                _end = .
+                0x008002e3                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
  *(.eeprom*)
@@ -1243,21 +1207,21 @@ END GROUP
  *(.comment)
  .comment       0x00000000       0x30 Adafruit_NeoPixel.o
                                  0x31 (size before relaxing)
+ .comment       0x00000030       0x31 SendOnlySoftwareSerial.o
  .comment       0x00000030       0x31 Sketch.o
- .comment       0x00000030       0x31 SoftwareSerial.o
  .comment       0x00000030       0x31 twi.o
  .comment       0x00000030       0x31 Wire.o
- .comment       0x00000030       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .comment       0x00000030       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .comment       0x00000030       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .comment       0x00000030       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .comment       0x00000030       0x31 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .comment       0x00000030       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr4\libc.a(malloc.o)
 
 .note.gnu.avr.deviceinfo
-                0x00000000       0x40
+                0x00000000       0x3c
  .note.gnu.avr.deviceinfo
-                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
 
 .note.gnu.build-id
  *(.note.gnu.build-id)
@@ -1274,121 +1238,121 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x4f0
+.debug_aranges  0x00000000      0x4b8
  *(.debug_aranges)
  .debug_aranges
                 0x00000000       0xa8 Adafruit_NeoPixel.o
  .debug_aranges
-                0x000000a8       0x58 Sketch.o
+                0x000000a8       0x70 SendOnlySoftwareSerial.o
  .debug_aranges
-                0x00000100       0xa8 SoftwareSerial.o
+                0x00000118       0x58 Sketch.o
  .debug_aranges
-                0x000001a8       0x80 twi.o
+                0x00000170       0x80 twi.o
  .debug_aranges
-                0x00000228       0xf8 Wire.o
+                0x000001f0       0xf8 Wire.o
  .debug_aranges
-                0x00000320       0x30 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000002e8       0x30 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .debug_aranges
-                0x00000350      0x100 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000318      0x100 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .debug_aranges
-                0x00000450       0x48 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000418       0x48 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .debug_aranges
-                0x00000498       0x38 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000460       0x38 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .debug_aranges
-                0x000004d0       0x20 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00000498       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0xbad5
+.debug_info     0x00000000     0xb0fb
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_info    0x000005f4     0x12bf Adafruit_NeoPixel.o
- .debug_info    0x000018b3     0x173b Sketch.o
- .debug_info    0x00002fee     0x28f2 SoftwareSerial.o
- .debug_info    0x000058e0      0x604 twi.o
- .debug_info    0x00005ee4     0x27b4 Wire.o
- .debug_info    0x00008698      0x237 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x000088cf     0x28ff C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_info    0x0000b1ce      0x2cb C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_info    0x0000b499      0x5fe C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_info    0x0000ba97       0x3e C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00000000      0x48c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_info    0x0000048c     0x12bf Adafruit_NeoPixel.o
+ .debug_info    0x0000174b     0x2099 SendOnlySoftwareSerial.o
+ .debug_info    0x000037e4     0x1722 Sketch.o
+ .debug_info    0x00004f06      0x604 twi.o
+ .debug_info    0x0000550a     0x27b4 Wire.o
+ .debug_info    0x00007cbe      0x237 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00007ef5     0x28ff C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000a7f4      0x2cb C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000aabf      0x5fe C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x0000b0bd       0x3e C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_abbrev   0x00000000     0x2360
+.debug_abbrev   0x00000000     0x20a6
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_abbrev  0x000005a2      0x3ed Adafruit_NeoPixel.o
- .debug_abbrev  0x0000098f      0x373 Sketch.o
- .debug_abbrev  0x00000d02      0x60b SoftwareSerial.o
- .debug_abbrev  0x0000130d      0x260 twi.o
- .debug_abbrev  0x0000156d      0x581 Wire.o
- .debug_abbrev  0x00001aee      0x12d C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x00001c1b      0x47a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_abbrev  0x00002095      0x146 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_abbrev  0x000021db      0x15b C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_abbrev  0x00002336       0x2a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000000      0x44e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_abbrev  0x0000044e      0x3ed Adafruit_NeoPixel.o
+ .debug_abbrev  0x0000083b      0x4b8 SendOnlySoftwareSerial.o
+ .debug_abbrev  0x00000cf3      0x360 Sketch.o
+ .debug_abbrev  0x00001053      0x260 twi.o
+ .debug_abbrev  0x000012b3      0x581 Wire.o
+ .debug_abbrev  0x00001834      0x12d C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001961      0x47a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001ddb      0x146 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00001f21      0x15b C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x0000207c       0x2a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_line     0x00000000     0x340b
+.debug_line     0x00000000     0x3082
  *(.debug_line .debug_line.* .debug_line_end)
- .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_line    0x00000133      0x7f5 Adafruit_NeoPixel.o
- .debug_line    0x00000928      0xae4 Sketch.o
- .debug_line    0x0000140c      0x7c7 SoftwareSerial.o
- .debug_line    0x00001bd3      0x511 twi.o
- .debug_line    0x000020e4      0x5bc Wire.o
- .debug_line    0x000026a0      0x17a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x0000281a      0x69a C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_line    0x00002eb4      0x2af C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_line    0x00003163      0x267 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_line    0x000033ca       0x41 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000000      0x10a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_line    0x0000010a      0x7f5 Adafruit_NeoPixel.o
+ .debug_line    0x000008ff      0x483 SendOnlySoftwareSerial.o
+ .debug_line    0x00000d82      0xaec Sketch.o
+ .debug_line    0x0000186e      0x511 twi.o
+ .debug_line    0x00001d7f      0x5bc Wire.o
+ .debug_line    0x0000233b      0x17a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x000024b5      0x69a C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00002b4f      0x2a3 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00002df2      0x24f C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00003041       0x41 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_frame    0x00000000      0xebc
+.debug_frame    0x00000000      0xdd8
  *(.debug_frame)
  .debug_frame   0x00000000      0x30c Adafruit_NeoPixel.o
- .debug_frame   0x0000030c       0xc0 Sketch.o
- .debug_frame   0x000003cc      0x1d4 SoftwareSerial.o
- .debug_frame   0x000005a0      0x134 twi.o
- .debug_frame   0x000006d4      0x284 Wire.o
- .debug_frame   0x00000958       0x54 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x000009ac      0x3ac C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_frame   0x00000d58       0xc4 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_frame   0x00000e1c       0x7c C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_frame   0x00000e98       0x24 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x0000030c       0xf0 SendOnlySoftwareSerial.o
+ .debug_frame   0x000003fc       0xc0 Sketch.o
+ .debug_frame   0x000004bc      0x134 twi.o
+ .debug_frame   0x000005f0      0x284 Wire.o
+ .debug_frame   0x00000874       0x54 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000008c8      0x3ac C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000c74       0xc4 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000d38       0x7c C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000db4       0x24 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_str      0x00000000     0x2de0
+.debug_str      0x00000000     0x2b22
  *(.debug_str)
- .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_str     0x00000208      0x847 Adafruit_NeoPixel.o
-                                0x8b9 (size before relaxing)
- .debug_str     0x00000a4f      0x180 Sketch.o
-                                0x90a (size before relaxing)
- .debug_str     0x00000bcf     0x1527 SoftwareSerial.o
-                               0x18fe (size before relaxing)
- .debug_str     0x000020f6      0x2a3 twi.o
-                                0x39f (size before relaxing)
- .debug_str     0x00002399      0x505 Wire.o
-                               0x189e (size before relaxing)
- .debug_str     0x0000289e       0x9c C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                                0x2a1 (size before relaxing)
- .debug_str     0x0000293a      0x3b1 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                               0x122f (size before relaxing)
- .debug_str     0x00002ceb       0x70 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                                0x237 (size before relaxing)
- .debug_str     0x00002d5b       0x69 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                                0x29c (size before relaxing)
- .debug_str     0x00002dc4       0x1c C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                                0x12c (size before relaxing)
+ .debug_str     0x00000000      0x17a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega8a/avr4/crtatmega8a.o
+ .debug_str     0x0000017a      0x84e Adafruit_NeoPixel.o
+                                0x8c0 (size before relaxing)
+ .debug_str     0x000009c8     0x1340 SendOnlySoftwareSerial.o
+                               0x1699 (size before relaxing)
+ .debug_str     0x00001d08      0x118 Sketch.o
+                                0x91b (size before relaxing)
+ .debug_str     0x00001e20      0x2a3 twi.o
+                                0x3a6 (size before relaxing)
+ .debug_str     0x000020c3      0x505 Wire.o
+                               0x18a5 (size before relaxing)
+ .debug_str     0x000025c8       0xa3 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2a8 (size before relaxing)
+ .debug_str     0x0000266b      0x3b1 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1236 (size before relaxing)
+ .debug_str     0x00002a1c       0x6f C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x23d (size before relaxing)
+ .debug_str     0x00002a8b       0x7b C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2a3 (size before relaxing)
+ .debug_str     0x00002b06       0x1c C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x133 (size before relaxing)
 
-.debug_loc      0x00000000     0x599f
+.debug_loc      0x00000000     0x51ef
  *(.debug_loc)
  .debug_loc     0x00000000     0x16a3 Adafruit_NeoPixel.o
- .debug_loc     0x000016a3      0x173 Sketch.o
- .debug_loc     0x00001816      0xc96 SoftwareSerial.o
- .debug_loc     0x000024ac      0x3e6 twi.o
- .debug_loc     0x00002892      0xbfd Wire.o
- .debug_loc     0x0000348f     0x1c87 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_loc     0x00005116      0x28d C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_loc     0x000053a3      0x5fc C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x000016a3      0x531 SendOnlySoftwareSerial.o
+ .debug_loc     0x00001bd4      0x173 Sketch.o
+ .debug_loc     0x00001d47      0x3e6 twi.o
+ .debug_loc     0x0000212d      0xbfd Wire.o
+ .debug_loc     0x00002d2a     0x1c87 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000049b1      0x28d C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00004c3e      0x5b1 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1408,18 +1372,18 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000      0x4c8
+.debug_ranges   0x00000000      0x448
  *(.debug_ranges)
  .debug_ranges  0x00000000       0x98 Adafruit_NeoPixel.o
- .debug_ranges  0x00000098       0x48 Sketch.o
- .debug_ranges  0x000000e0       0xe0 SoftwareSerial.o
- .debug_ranges  0x000001c0       0x70 twi.o
- .debug_ranges  0x00000230       0xe8 Wire.o
- .debug_ranges  0x00000318       0x20 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x00000338      0x120 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_ranges  0x00000458       0x38 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_ranges  0x00000490       0x28 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_ranges  0x000004b8       0x10 C:\Users\mio\Desktop\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000098       0x60 SendOnlySoftwareSerial.o
+ .debug_ranges  0x000000f8       0x48 Sketch.o
+ .debug_ranges  0x00000140       0x70 twi.o
+ .debug_ranges  0x000001b0       0xe8 Wire.o
+ .debug_ranges  0x00000298       0x20 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000002b8      0x120 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000003d8       0x38 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000410       0x28 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000438       0x10 C:\Users\mio\Desktop\github\CardKB_Serial\CardKeyboard\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_macro
  *(.debug_macro)

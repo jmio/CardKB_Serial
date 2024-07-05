@@ -15,10 +15,10 @@ Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ80
 #ifndef USE_SOFTUART
 #include "Wire.h"
 #else
-#include "SoftwareSerial.h"
+#include "SendonlySoftwareSerial.h"
 #define KB_RX     A4  // CLK  
 #define KB_TX     A5  // DATA
-SoftwareSerial softSerial(KB_RX, KB_TX); // RX, TX
+SendOnlySoftwareSerial softSerial(KB_TX); // TX Only
 #endif
 
 //Beginning of Auto generated function prototypes by Atmel Studio

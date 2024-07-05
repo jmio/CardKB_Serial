@@ -4,9 +4,9 @@
 
 Adafruit_NeoPixel.cpp
 
-Sketch.cpp
+SendOnlySoftwareSerial.cpp
 
-SoftwareSerial.cpp
+Sketch.cpp
 
 twi.c
 
